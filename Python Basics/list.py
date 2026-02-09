@@ -1,4 +1,4 @@
-# list are immutable and can be indexed
+# list are mutable and can be indexed
 
 friends = ["apple", "orange", 5, 345, False, "Ahmad"]
 
